@@ -85,6 +85,6 @@ xdot(3,1) = v*sin(gamma); % rdot
 xdot(4,1) = v/r*cos(gamma); % thetadot
 
 
-
+ 
 end
 
